@@ -157,19 +157,7 @@ nav {
 
 
 
-.construction-notice {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    background: rgba(255, 255, 255, 0.05);
-    color: var(--text-light);
-    padding: 6px 14px;
-    border-radius: 100px;
-    font-weight: 500;
-    font-size: 0.8rem;
-    margin-bottom: 0;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-}
+
 
 .hero-badges {
     display: flex;
@@ -182,9 +170,7 @@ nav {
 
 
 
-.construction-notice .icon {
-    font-size: 1rem;
-}
+
 
 
 
